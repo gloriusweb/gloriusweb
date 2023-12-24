@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/qlorius/qlorius/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **qlorius/qlorius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
