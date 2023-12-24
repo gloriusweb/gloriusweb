@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! I'm glorius </h1>
 
-![snake gif](https://github.com/qlorius/qlorius/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gloriusweb/gloriusweb/blob/output/github-contribution-grid-snake.svg)
 
 ## About me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/glorius2248)
@@ -9,7 +9,7 @@
 I'm a frontend developer from Russia.
 
 ## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qlorius&repo=ggdash&theme=dracula&bg_color=00000000&)](https://github.com/glorius/ggdash)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gloriusweb&repo=ggdash&theme=dracula&bg_color=00000000&)](https://github.com/gloriusweb/ggdash)
 
 
 <details align="left">
@@ -29,10 +29,10 @@ I'm a frontend developer from Russia.
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlorius&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloriusweb&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=qlorius&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api?username=gloriusweb&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
     <br>
-   <img src="https://metrics.lecoq.io/qlorius" />
+   <img src="https://metrics.lecoq.io/gloriusweb" />
   </p>
 </details>
