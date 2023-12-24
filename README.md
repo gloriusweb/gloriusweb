@@ -1,18 +1,40 @@
-### Hi there 👋
+<h1 align="center">👋 Hello! I'm glorius </h1>
 
-![snake gif](https://github.com/qlorius/qlorius/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+ ![snake gif](https://github.com/qlorius/qlorius/blob/output/github-contribution-grid-snake.svg)
+</p>
 
-<!--
-**qlorius/qlorius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/glorius2248)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/ccpxf5REuU)
 
-Here are some ideas to get you started:
+I'm a frontend developer from Russia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌Pinned
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qlorius&repo=ggdash&theme=dracula&bg_color=00000000&)](https://github.com/glorius/ggdash)
+
+
+<details align="left">
+  <summary><h2><b>📚 My stack</b></h2></summary>
+  <p>
+    <h3>Langs</h3>
+    <img src="https://skillicons.dev/icons?i=py,javascript,html,css,sql&perline=7" />
+    <h3>Frameworks / Tools</h3>
+    <img src="https://skillicons.dev/icons?i=linux,react,vue,docker,bootstrap,ps,figma,git&perline=7" />
+    <h3>Software</h3>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio&perline=7" />
+    <br>
+  </p>
+</details>
+
+
+<details align="left">
+  <summary><h2><b>⭐GitHub stats</b></h2></summary>
+  <p>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlorius&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api?username=qlorius&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+    <br>
+   <img src="https://metrics.lecoq.io/qlorius" />
+  </p>
+</details>
