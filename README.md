@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hello! I'm glorius </h1>
 
-<p align="center">
- ![snake gif](https://github.com/qlorius/qlorius/blob/output/github-contribution-grid-snake.svg)
-</p>
+![snake gif](https://github.com/qlorius/qlorius/blob/output/github-contribution-grid-snake.svg)
 
 ## About me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/glorius2248)
