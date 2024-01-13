@@ -6,7 +6,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/glorius2248)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/ccpxf5REuU)
 
-I'm a frontend developer from Russia. I prefer to use webstorm as my primary code editor, also visual studio code. I know the vue.js framework quite well and use it quite often in my work. At the moment I am in the process of learning the React js library. And I use Arch Linux as my main operating system.
+I'm a frontend developer from Russia. I prefer to use webstorm as my primary code editor, also visual studio code. I know the Vue.js framework quite well and use it quite often in my work. At the moment I am in the process of learning the React js library.
 
 ## 📌Pinned
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gloriusweb&repo=ggdash&theme=dracula&bg_color=00000000&)](https://github.com/gloriusweb/ggdash)
