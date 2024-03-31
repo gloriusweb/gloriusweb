@@ -18,7 +18,7 @@ I'm a frontend developer from Russia. I prefer to use webstorm as my primary cod
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=javascript,py,php,mysql&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=linux,react,vue,docker,bootstrap,ps,figma,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=linux,react,vue,nodejs,electron,docker,bootstrap,ps,figma,git&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio&perline=7" />
     <br>
